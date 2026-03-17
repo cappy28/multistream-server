@@ -1,0 +1,12 @@
+{
+  "name": "multistream-server",
+  "version": "1.0.0",
+  "description": "Serveur RTMP multi-stream Twitch + YouTube",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-media-server": "^2.6.0"
+  }
+}
